@@ -1,0 +1,15 @@
+.container{
+    width: 100%;
+    background: red;
+    display: flex;
+    flex-direction: column;
+}
+
+.btn{
+    padding: 5px;
+    min-width: 30px;
+}
+
+.btn-ac{
+    min-width: 60px !important;
+}
